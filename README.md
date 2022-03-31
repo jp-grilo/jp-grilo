@@ -2,7 +2,7 @@
 - 👀 Sou muito interessado em tudo que envolve lógica e as regras que regem a realidade
 - 🌱 Estudo para me tornar um dev fullstack
 - 🎒 JavaScript | TypeScript | NodeJS | HTML | CSS | React | MongoDB
-- 📫 Fale comigo pelo meu emai:joaoplopescg@gmail.com, ou veja meu perfil no Linkedin:https://www.linkedin.com/in/joaogrilh0/
+- 📫 Fale comigo pelo meu emai: joaoplopescg@gmail.com, ou veja meu perfil no Linkedin: https://www.linkedin.com/in/joaogrilh0/
 
 ##
 
@@ -22,4 +22,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">
+</div>
+
+  ##
+  
+  <div> 
+  <a href="https://www.instagram.com/joao.griloo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaoplopescg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaogrilh0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
