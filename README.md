@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo João Paulo, seja bem vindo ao meu Github! 
-- 👀 Curso ciências da computação na UFG e sou estagiário pela Meta (mas não a do facebook hihi)
+- 👀 Curso ciências da computação na UFG e estagío pela Meta
 - 🌱 Estudando para me tornar um dev fullstack!
-- 🎒 C# .NET | arquitetura BDD | TypeScript | React 
+- 🎒 C# .NET | Java Springboot | JS-TS React | TDD-DDD
 - 📫 Informações de contato e um pouco do meu trabalho estarão abaixo!
 
 ##
