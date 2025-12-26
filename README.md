@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo João Paulo, seja bem vindo ao meu mundo! 
-- 👀 Curso ciências da computação na UFG
+- 👀 Bacharel em ciências da computação na UFG
 - 📫 Informações de contato e um pouco do meu trabalho estarão abaixo!
 
   
