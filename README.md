@@ -1,13 +1,18 @@
-# Olá, eu sou o João Paulo Grilo 
-Par os íntimos, João Grilo
-
-Desenvolvedor Fullstack com sólida base acadêmica e prática em **Ciência da Computação** pela **UFG**. Tenho experiência no desenvolvimento de sistemas críticos, desde a arquitetura de microsserviços e bancos de dados até interfaces móveis e web modernas.
+Para os íntimos, João Grilo
+---
 
 ### Sobre mim
-- Bacharel em Ciência da Computação pela **Universidade Federal de Goiás (UFG)**.
-- Experiência com arquitetura de **Microsserviços**, migração de sistemas legados e desenvolvimento de CRMs customizados.
-- Desenvolvimento mobile escalável com **React Native**.
-- Focado em **Clean Code**, testes automatizados e padrões de projeto para garantir escalabilidade.
+- Bacharel em **Ciência da Computação** pela **UFG**
+- Desenvolvedor Fullstack com base acadêmica e prática sólida
+- Tenho experiência no desenvolvimento de sistemas críticos, atuando desde a migração de um projeto de cobrança legado em Java, à criação de um CRM para monitoramento e controle de ativos de uma asseguradora, a um APP de rastreabilidade de produção agricola
+- Aplicando as particularidades de cada projeto, seja arquitetura de microsserviços, otimizando querys de bancos de dados, ou projetando interfaces móveis e web modernas
+
+---
+
+### Atualmente focado em:
+- Aprofundamento em ecossistema **Spring Boot** e **React**.
+- Especialização em containerização e orquestração com **Docker**.
+- Iniciando estudos em **Rust** para sistemas de alta performance e segurança.
 
 ---
 
@@ -33,14 +38,7 @@ Desenvolvedor Fullstack com sólida base acadêmica e prática em **Ciência da 
 
 ---
 
-### Atualmente focado em:
-- Aprofundamento em ecossistema **Spring Boot** e **React**.
-- Especialização em containerização e orquestração com **Docker**.
-- Iniciando estudos em **Rust** para sistemas de alta performance.
-
----
-
-### Entre em contato:
+### Veja meus projetos e entre em contato :)
 <div> 
   <a href="https://www.linkedin.com/in/joaogrilh0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:joaoplopescg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
