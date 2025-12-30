@@ -44,7 +44,3 @@ Desenvolvedor Fullstack com sólida base acadêmica e prática em **Ciência da 
   <a href="https://www.linkedin.com/in/joaogrilh0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:joaoplopescg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jp-grilo&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-grilo&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jp-grilo&theme=radical)
