@@ -1,8 +1,9 @@
 # Olá, eu sou o João Paulo Grilo 👋
+Par os íntimos, João Grilo
 
 Desenvolvedor Fullstack com sólida base acadêmica e prática em **Ciência da Computação** pela **UFG**. Tenho experiência no desenvolvimento de sistemas críticos, desde a arquitetura de microsserviços e bancos de dados até interfaces móveis e web modernas.
 
-### 💻 Sobre mim
+### Sobre mim
 - Bacharel em Ciência da Computação pela **Universidade Federal de Goiás (UFG)**.
 - Experiência com arquitetura de **Microsserviços**, migração de sistemas legados e desenvolvimento de CRMs customizados.
 - Desenvolvimento mobile escalável com **React Native**.
