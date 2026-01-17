@@ -9,7 +9,7 @@ Para os íntimos, João Grilo
 
 ---
 
-### Proficiente em focado em:
+### Proficiente em:
 - Backend: c# (.Net) e Java (Spring Boot)
 - Frontend: JavaScript e TypeScript (React, React Native e Angular)
 - Containerização com Docker
