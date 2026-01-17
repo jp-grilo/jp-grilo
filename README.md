@@ -4,14 +4,19 @@ Para os íntimos, João Grilo
 ### Sobre mim
 - Bacharel em **Ciência da Computação** pela **UFG**
 - Desenvolvedor Fullstack com base acadêmica e prática sólida
-- Tenho experiência no desenvolvimento de sistemas críticos, atuando desde a migração de um projeto de cobrança legado em Java, à criação de um CRM para monitoramento e controle de ativos de uma asseguradora, a um APP de rastreabilidade de produção agricola
+- Tenho experiência no desenvolvimento de sistemas críticos, tendo atuado em diversas áreas, desde manutenção e modernização de projetos legado, à criação de um CRM e APPs mobile
 - Aplicando as particularidades de cada projeto, seja arquitetura de microsserviços, otimizando querys de bancos de dados, ou projetando interfaces móveis e web modernas
 
 ---
 
+### Proficiente em focado em:
+- Backend: c# (.Net) e Java (Spring Boot)
+- Frontend: JavaScript e TypeScript (React, React Native e Angular)
+- Containerização com Docker
+- Arquiteturas de Software e código limpo
+
 ### Atualmente focado em:
 - Aprofundamento em ecossistema **Spring Boot** e **React**.
-- Especialização em containerização e orquestração com **Docker**.
 - Iniciando estudos em **Rust** para sistemas de alta performance e segurança.
 
 ---
