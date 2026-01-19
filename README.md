@@ -47,4 +47,7 @@ Para os íntimos, João Grilo
 <div> 
   <a href="https://www.linkedin.com/in/joaogrilh0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:joaoplopescg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://raw.githubusercontent.com/jp-grilo/jp-grilo/main/01_João_Paulo_Grilo_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Meu-Curriculo-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" target="_blank">
+</a>
 </div>
