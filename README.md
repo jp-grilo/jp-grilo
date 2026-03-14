@@ -17,8 +17,6 @@ Para os íntimos, João Grilo
 
 ### Atualmente focado em:
 - Aprofundamento em ecossistema **Spring Boot** e **React**.
-- Iniciando estudos em **Rust** para sistemas de alta performance e segurança.
-
 ---
 
 ### Tecnologias e Ferramentas
